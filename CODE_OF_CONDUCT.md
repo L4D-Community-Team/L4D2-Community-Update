@@ -17,7 +17,7 @@ In terms of community participation:
 - Trolling, insulting/derogatory/discriminative comments, and personal or political attacks will not be tolerated.
 - Show empathy and gracefully accept constructive criticism. We all want what is best for the game and sometimes this will require us to meet others half way.
 - Please keep any discussion relevant to the topic matter. Wild tangents can go on the [Steam forums](https://steamcommunity.com/app/550/discussions/0/3083268548812820489/).
-- When reporting a vulnerability, please [review our Security Policy](SECURITY.md) before posting.
+- When reporting a vulnerability, [contact with maintainers](#Contact) first.
 
 ## Integrity
 
